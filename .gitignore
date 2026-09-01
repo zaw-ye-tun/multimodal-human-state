@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/
+videos/*.mp4
+research_plan.md
+interview_prep.md

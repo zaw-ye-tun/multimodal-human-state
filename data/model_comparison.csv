@@ -1,0 +1,4 @@
+model,features,accuracy
+heart_rate_only,"heart_rate, hr_change, hr_rolling_mean",0.8917748917748918
+movement_only,"movement, movement_rolling_mean",0.7748917748917749
+multimodal,"heart_rate, hr_change, hr_rolling_mean, movement, movement_rolling_mean",0.948051948051948

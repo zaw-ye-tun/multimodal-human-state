@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      active       0.96      0.97      0.97        77
+    recovery       0.67      0.69      0.68        77
+        rest       0.69      0.66      0.68        77
+
+    accuracy                           0.77       231
+   macro avg       0.77      0.77      0.77       231
+weighted avg       0.77      0.77      0.77       231
